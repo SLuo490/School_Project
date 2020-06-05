@@ -193,12 +193,6 @@ $ ./calc
 
 
 
-
----  
-layout: myDefault  
-title: Project 2  
----      
-
 # Project 2. Protein Synthesis
 
 
