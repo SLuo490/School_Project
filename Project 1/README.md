@@ -1,7 +1,3 @@
----  
-layout: myDefault  
-title: PROJECT 1  
----  
 
 # Project 1. Streams and calculators.
 
