@@ -6,11 +6,6 @@
  This program uses input redirection and add the sum of the integers in the txt file.
  */
 
-
-
-
-
-
 #include <iostream>
 using namespace std;
 
