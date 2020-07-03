@@ -1,5 +1,5 @@
 
-//This program converts your number grade to a letter grade
+//This program converts a number grade (0-100) to a letter grade (A,B,C,D,F)
 
 
 #include <iostream>
@@ -13,6 +13,15 @@ int main() {
     cin >> number_grade;
     
     //Every interval of 10, the letter grade changes
+   
+    /*
+    100-90 = A
+    89-80 = B
+    79-70 = C
+    69-60 = D
+    59-0 = F
+    */
+    
     switch (number_grade / 10) {
         case 10:
             cout << "A" << endl;
