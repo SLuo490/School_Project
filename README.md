@@ -1,2 +1,2 @@
 # my_projects
-School Projects
+A collection of school projects and personal projects
